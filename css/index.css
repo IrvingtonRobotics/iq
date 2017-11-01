@@ -1,0 +1,16 @@
+.is-branded {
+    background: rgb(23, 29, 46);
+}
+.navbar-burger {
+    background: transparent;
+    border: none;
+    color: white;
+    outline: none;
+}
+#volbtn {
+    font-weight: 500;
+}
+.is-iqhero {
+    background: url('/img/iq_worlds.jpg');
+    background-size: cover;
+}
